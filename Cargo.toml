@@ -1,0 +1,8 @@
+[package]
+
+name = "rust-trie"
+version = "0.0.1"
+authors = [ "Andy Friesen <andy.friesen@gmail.com>" ]
+
+[[bin]]
+name = "rust-trie"
